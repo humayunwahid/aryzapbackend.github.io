@@ -1,0 +1,5 @@
+title: aaa
+revisions: false
+date_behavior:
+  past: public
+  future: private
